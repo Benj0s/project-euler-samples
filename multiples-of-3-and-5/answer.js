@@ -5,7 +5,7 @@
  */
 
 (function() {
-
+    'use strict';
     var maxNum = 10,
         sum = 0,
         i = 0;
